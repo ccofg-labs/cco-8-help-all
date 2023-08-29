@@ -1,3 +1,20 @@
+<!-- Logo/Banner do Projeto -->
+<p align="center">
+  <img src="https://www.handtalk.me/br/wp-content/uploads/sites/8/2021/11/siteht-v2-plugin-ods.png" alt="Logo" width="auto" height="150">
+  <h1 align="center">Laborátorio do Dexter</h1>
+  
+  <p align="center">
+    Repositório das disciplinas Práticas do laboratório de informatica  do Curso Ciência da Computação - UNIFG 20.1
+  </p>
+</p>
+<br />
+<!-- Shields do Projeto -->
+
+![License](https://img.shields.io/badge/UNIFG-Práticas%20de%20Engenharia%20de%20Software-red.svg)
+![License](https://img.shields.io/badge/UNIFG-Práticas%20de%20Banco%20de%20Dados-blue.svg)
+![License](https://img.shields.io/badge/UNIFG-Desenvolvimento%20de%20Sofotware%20Para%20Web-green.svg)
+<!-- Shields do Projeto -->
+
 # 🚀 INFORMAÇÕES:
 
 ### 🔎 OBJETIVO: **Criar um site com base em uma das ODS (Objetivos de Desenvolvimento Sustentável) da ONU no Brasil**
