@@ -1,7 +1,7 @@
 <!-- Logo/Banner do Projeto -->
 <p align="center">
   <img src="https://www.handtalk.me/br/wp-content/uploads/sites/8/2021/11/siteht-v2-plugin-ods.png" alt="Logo" width="auto" height="150">
-  <h1 align="center">Laborátorio do Dexter</h1>
+  <h1 align="center">Help All</h1>
   
   <p align="center">
     Repositório das disciplinas Práticas do laboratório de informatica  do Curso Ciência da Computação - UNIFG 20.1
