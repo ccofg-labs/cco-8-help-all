@@ -11,8 +11,7 @@
 <!-- Shields do Projeto -->
 
 ![License](https://img.shields.io/badge/UNIFG-Práticas%20de%20Engenharia%20de%20Software-red.svg)
-![License](https://img.shields.io/badge/UNIFG-Práticas%20de%20Banco%20de%20Dados-blue.svg)
-![License](https://img.shields.io/badge/UNIFG-Desenvolvimento%20de%20Sofotware%20Para%20Web-green.svg)
+![License](https://img.shields.io/badge/UNIFG-Laboratorio%20de%20Sofotware%20e%20Projetos-green.svg)
 <!-- Shields do Projeto -->
 
 # 🚀 INFORMAÇÕES:
