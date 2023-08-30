@@ -32,7 +32,9 @@
 - **HTML5, CSS3, Javascript**
 - **Fancybox library v4.0**
 - **Bootstrap Icons v1.5.0**
+- HandTalk -> [HandTalk](https://www.handtalk.me/br/plugin/)
 - Acessibilidade -> [VLibras](https://www.gov.br/governodigital/pt-br/vlibras)
+  
 
 ### 💡 IDEIAS IMPLEMENTADAS:
 - **Preloader:**
