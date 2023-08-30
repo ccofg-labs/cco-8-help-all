@@ -4,7 +4,7 @@
   <h1 align="center">Help All</h1>
   
   <p align="center">
-    Repositório das disciplinas Práticas do laboratório de informatica  do Curso Ciência da Computação - UNIFG 20.1
+    Repositório das disciplinas Práticas do laboratório de informatica  do Curso Ciência da Computação - UNIFG 23.2 
   </p>
 </p>
 <br />
@@ -18,7 +18,6 @@
 # 🚀 INFORMAÇÕES:
 
 ### 🔎 OBJETIVO: **Criar um site com base em uma das ODS (Objetivos de Desenvolvimento Sustentável) da ONU no Brasil**
-- Projeto da disciplina **Desenvolvimento de Aplicações para Internet** 
 - **Professor/Instrutor ->** [Carlos]
 - **Instituição ->** [UNIFG](https://www.instagram.com)
 - **Curso ->** Laboratório de Software e Projetos
