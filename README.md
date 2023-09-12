@@ -22,7 +22,7 @@
 - **Curso ->** Laboratório de Software e Projetos
 
 ### 🖥️ SOBRE O PROJETO:    
-- **Nossa ODS ->** N° 10 ([Redução das Desigualdades](https://brasil.un.org/pt-br/sdgs/10))
+- **Nossa ODS ->** N° 4 ([Educação de qualidade](https://brasil.un.org/pt-br/sdgs/4))
 - **Nome ->** Help All
 - **Foco ->** Site acessível aos **deficientes auditivos** e pessoas interessadas na **LBS (Língua Brasileira de Sinais)**.
 - **Objetivo ->** Tornar a web mais **acessível** e **consumível** para os deficientes auditivos, igualitando a rede mundial tecnológica.
